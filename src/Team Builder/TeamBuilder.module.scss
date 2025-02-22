@@ -1,0 +1,314 @@
+@mixin flex($direction: row, $justify: center, $align: center) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
+}
+
+$defaultBackgroundColour: rgb(55, 130, 184);
+
+.teamBuilderContainer {
+    width: 100%;
+    height: 100%;
+    @include flex(column);
+
+    >.title {
+        color: white;
+        text-align: center;
+        font-weight: normal !important;
+    }
+
+    .madeBy {
+        color: white;
+        text-align: center;
+        font-size: 0.75em;
+        margin-top: -10px;
+    }
+
+    .teamBuilder {
+        @include flex(column);
+        background-color: rgb(67, 85, 97);
+        gap: 1.25em;
+        border-radius: 10px;
+        padding: 20px;
+
+        .loomiansContainer {
+            flex: 1;
+            @include flex(column);
+            width: 100%;
+            height: 100%;
+            gap: 1.25em;
+
+            .loomiansTeam {
+                @include flex(row);
+                flex-wrap: wrap;
+                gap: 1.25em;
+
+                .icon {
+                    font-size: 2em;
+                    color: rgb(255, 255, 255);
+                    cursor: pointer;
+                    transition: color 0.3s;
+
+                    &:hover {
+                        color: rgb(198, 198, 198);
+                    }
+                }
+
+                .loomianCard {
+                    @include flex();
+                    background-color: $defaultBackgroundColour;
+                    width: 70px;
+                    height: 70px;
+                    cursor: pointer;
+
+                    img {
+                        width: 100%;
+                    }
+                }
+            }
+
+            .teamInfoContainer {
+                background-color: $defaultBackgroundColour;
+                flex: 1;
+                min-height: 100%;
+                color: white;
+                padding: 20px;
+                @include flex(column);
+
+                .teamDefensesContainer, .coverageContainer {
+                    @include flex(column);
+                    height: 100%;
+                    width: 100%;
+
+                    .info {
+                        display: none;
+                    }
+
+                    .title {
+                        font-size: 1.5em;
+                        margin-bottom: 10px;
+
+                        .infoIcon {
+                            @extend .icon;
+                            cursor: pointer;
+                            position: relative;
+
+                            &:hover {
+                                color: rgb(198, 198, 198);
+
+                                .info {
+                                    display: block;
+                                    opacity: 0;
+                                    color: white;
+                                    position: absolute;
+                                    width: 400px;
+                                    top: 30px;
+                                    right: 50%;
+                                    transform: translateX(50%);
+                                    background-color: rgb(67, 85, 97);
+                                    padding: 10px;
+                                    border-radius: 5px;
+                                    z-index: 11;
+                                    font-weight: normal;
+                                    font-size: 0.75em;
+
+
+                                    .topArrow {
+                                        position: absolute;
+                                        top: -5px;
+                                        left: 50%;
+                                        transform: translateX(-50%);
+                                        width: 0;
+                                        height: 0;
+                                        border-left: 10px solid transparent;
+                                        border-right: 10px solid transparent;
+                                        border-bottom: 10px solid rgb(67, 85, 97);
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .teamDefenses {
+                        @include flex(row);
+                        flex-wrap: wrap;
+                        gap: 1.25em;
+                        margin-bottom: 2em;
+
+                        .type {
+                            @include flex(column);
+                            cursor: pointer;
+                            padding: 5px 10px;
+                            border-radius: 5px;
+                            position: relative;
+                            margin-bottom: 20px;
+                            width: 35px;
+                            color: rgb(0, 0, 0);
+
+                            .img {
+                                width: 100%;
+
+                                &.good {
+                                    filter: drop-shadow(0 0 5px rgb(0, 153, 0));
+                                }
+
+                                &.bad {
+                                    filter: drop-shadow(0 0 5px rgb(215, 94, 94));
+                                }
+                            }
+
+                            .typeInfo {
+                                cursor: default;
+                                @include flex(column, center, center);
+                                position: absolute;
+                                bottom: -30px;
+                                width: 100%;
+                                background-color: rgb(255, 255, 255);
+                                padding: 5px;
+                                border-radius: 5px;
+                                color: rgb(0, 0, 0);
+                                z-index: 1;
+
+                                .topArrow {
+                                    position: absolute;
+                                    top: -5px;
+                                    left: 50%;
+                                    transform: translateX(-50%);
+                                    width: 0;
+                                    height: 0;
+                                    border-left: 10px solid transparent;
+                                    border-right: 10px solid transparent;
+                                    border-bottom: 10px solid rgb(255, 255, 255);
+                                }
+
+                                .typeValue {
+                                    margin: 0;
+                                    user-select: none;
+                                    color: rgb(86, 86, 86);
+
+                                    &.good {
+                                        color: rgb(0, 153, 0);
+                                    }
+
+                                    &.bad {
+                                        color: rgb(229, 64, 64);
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .coverage {
+                        @include flex(row);
+                        flex-wrap: wrap;
+                        gap: 1.25em;
+                        margin-bottom: 2em;
+
+                        .type {
+                            @include flex(column);
+                            cursor: default;
+                            padding: 5px 10px;
+                            border-radius: 5px;
+                            position: relative;
+                            margin-bottom: 20px;
+                            width: 35px;
+                            color: rgb(0, 0, 0);
+
+                            .img {
+                                width: 100%;
+
+                                &.good {
+                                    filter: drop-shadow(0 0 5px rgb(0, 153, 0));
+                                }
+
+                                &.bad {
+                                    filter: drop-shadow(0 0 5px rgb(215, 94, 94));
+                                }
+                            }
+
+                            .typeInfo {
+                                cursor: default;
+                                @include flex(column, center, center);
+                                position: absolute;
+                                bottom: -30px;
+                                width: 100%;
+                                background-color: rgb(255, 255, 255);
+                                padding: 5px;
+                                border-radius: 5px;
+                                color: rgb(0, 0, 0);
+                                z-index: 1;
+
+                                .topArrow {
+                                    position: absolute;
+                                    top: -5px;
+                                    left: 50%;
+                                    transform: translateX(-50%);
+                                    width: 0;
+                                    height: 0;
+                                    border-left: 10px solid transparent;
+                                    border-right: 10px solid transparent;
+                                    border-bottom: 10px solid rgb(255, 255, 255);
+                                }
+
+                                .typeValue {
+                                    margin: 0;
+                                    user-select: none;
+                                    color: rgb(86, 86, 86);
+
+                                    &.good {
+                                        color: rgb(0, 153, 0);
+                                    }
+
+                                    &.bad {
+                                        color: rgb(229, 64, 64);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .teamBuilder {
+        margin-bottom: 2em;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    .teamBuilderContainer {
+        .teamBuilder {
+            .header {
+                .inputContainer {
+                    .input {
+                        font-size: 1.25em;
+                    }
+
+                    .icon {
+                        font-size: 1.25em;
+                    }
+                }
+            }
+
+            .loomiansContainer {
+                .title {
+                    font-size: 1.25em;
+                }
+
+                .teamInfoContainer {
+                    .teamDefensesContainer, .coverageContainer {
+                        .teamDefenses, .coverage {
+                            .type {
+                                width: 30px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+.fadeIn {
+    animation: fadeIn 0.3s ease-in-out both;
+}
+
+.fadeOut {
+    animation: fadeOut 0.3s ease-in-out both;
+}
+
+$separatorColour: rgb(68, 68, 68);
+
+* {
+    font-family: "Russo One", serif;
+    font-style: normal;
+}
+
+#root {
+    width: 100%;
+    height: 100%;
+}
+
+.verticalLine {
+    border-left: 1px solid $separatorColour;
+    height: 100%;
+}
+
+.horizontalLine {
+    border-top: 1px solid $separatorColour;
+    width: 100%;
+}
+
+html {
+    scrollbar-color: rgb(71, 72, 125) transparent;
+}
+
+body {
+    min-height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(41, 54, 122);
+}

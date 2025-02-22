@@ -1,0 +1,92 @@
+{
+    "Fire": {
+        "immune_to": [],
+        "weak_to": ["Water", "Air", "Earth"],
+        "resists": ["Fire", "Plant", "Ice", "Bug", "Metal"]
+    },
+    "Water": {
+        "immune_to": [],
+        "weak_to": ["Plant", "Electric", "Toxic"],
+        "resists": ["Fire", "Water", "Ice", "Metal"]
+    },
+    "Plant": {
+        "immune_to": [],
+        "weak_to": ["Fire", "Dark", "Ice", "Bug", "Toxic"],
+        "resists": ["Water", "Plant", "Electric", "Earth"]
+    },
+    "Light": {
+        "immune_to": ["Spirit"],
+        "weak_to": ["Dark", "Metal"],
+        "resists": ["Fire", "Light", "Ancient", "Spirit"]
+    },
+    "Dark": {
+        "immune_to": [],
+        "weak_to": ["Fire", "Light", "Bug"],
+        "resists": ["Dark", "Spirit", "Mind"]
+    },
+    "Ice": {
+        "immune_to": [],
+        "weak_to": ["Fire", "Metal", "Brawler"],
+        "resists": ["Ice", "Air"]
+    },
+    "Electric": {
+        "immune_to": [],
+        "weak_to": ["Water", "Earth"],
+        "resists": ["Electric", "Air", "Metal"]
+    },
+    "Air": {
+        "immune_to": ["Earth"],
+        "weak_to": ["Electric", "Ice"],
+        "resists": ["Bug", "Brawler"]
+    },
+    "Bug": {
+        "immune_to": [],
+        "weak_to": ["Ice", "Air"],
+        "resists": ["Plant", "Dark", "Bug", "Earth"]
+    },
+    "Earth": {
+        "immune_to": ["Electric"],
+        "weak_to": ["Water", "Plant", "Ice"],
+        "resists": ["Toxic"]
+    },
+    "Toxic": {
+        "immune_to": [],
+        "weak_to": ["Mind", "Earth"],
+        "resists": ["Toxic", "Plant", "Brawler"]
+    },
+    "Metal": {
+        "immune_to": [],
+        "weak_to": ["Fire", "Electric", "Earth", "Brawler"],
+        "resists": ["Ice", "Air", "Bug", "Metal", "Ancient", "Mind", "Simple"]
+    },
+    "Ancient": {
+        "immune_to": [],
+        "weak_to": ["Light", "Metal", "Ancient"],
+        "resists": ["Fire", "Water",  "Plant", "Electric", "Spirit"]
+    },
+    "Spirit": {
+        "immune_to": ["Brawler"],
+        "weak_to": ["Light", "Ancient", "Spirit"],
+        "resists": ["Dark", "Electric", "Toxic", "Simple"]
+    },
+    "Brawler": {
+        "immune_to": [],
+        "weak_to": ["Air", "Toxic", "Spirit", "Mind"],
+        "resists": ["Ice", "Bug"]
+    },
+    "Mind": {
+        "immune_to": [],
+        "weak_to": ["Dark", "Bug", "Spirit"],
+        "resists": ["Light", "Brawler", "Mind"]
+    },
+    "Simple": {
+        "immune_to": [],
+        "weak_to": ["Brawler", "Mind"],
+        "resists": ["Spirit"]
+    },
+    "Unknown": {
+        "immune_to": [],
+        "weak_to": [],
+        "resists": []
+    }
+}

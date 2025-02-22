@@ -1,0 +1,1856 @@
+{
+    "embit" : {
+        "name": "Embit",
+        "loomipedia_id": "001",
+        "type": ["Fire"],
+        "abilities": ["Awakening", "Terrifying"]
+    },
+    "rabburn": {
+        "name": "Rabburn",
+        "loomipedia_id": "002",
+        "type": ["Fire"],
+        "abilities": ["Awakening", "Terrifying"]
+    },
+    "searknight": {
+        "name": "Searknight",
+        "loomipedia_id": "003",
+        "type": ["Fire", "Metal"],
+        "abilities": ["Awakening", "Terrifying"]
+    },
+    "dripple": {
+        "name": "Dripple",
+        "loomipedia_id": "004",
+        "type": ["Water"],
+        "abilities": ["Awakening", "Power Napper"]
+    },
+    "reptide": {
+        "name": "Reptide",
+        "loomipedia_id": "005",
+        "type": ["Water"],
+        "abilities": ["Awakening", "Power Napper"]
+    },
+    "luminami": {
+        "name": "Luminami",
+        "loomipedia_id": "006",
+        "type": ["Water", "Light"],
+        "abilities": ["Awakening", "Power Napper"]
+    },
+    "fevine": {
+        "name": "Fevine",
+        "loomipedia_id": "007",
+        "type": ["Plant"],
+        "abilities": ["Awakening", "Thriving Pace"]
+    },
+    "felver": {
+        "name": "Felver",
+        "loomipedia_id": "008",
+        "type": ["Plant"],
+        "abilities": ["Awakening", "Thriving Pace"]
+    },
+    "tahtab": {
+        "name": "Tahtab",
+        "loomipedia_id": "009",
+        "type": ["Plant", "Brawler"],
+        "abilities": ["Awakening", "Thriving Pace"]
+    },
+    "eaglit": {
+        "name": "Eaglit",
+        "loomipedia_id": "010",
+        "type": ["Light"],
+        "abilities": ["Awakening", "Applied Frustration"]
+    },
+    "torprey": {
+        "name": "Torprey",
+        "loomipedia_id": "011",
+        "type": ["Light"],
+        "abilities": ["Awakening", "Applied Frustration"]
+    },
+    "falkyrie": {
+        "name": "Falkyrie",
+        "loomipedia_id": "012",
+        "type": ["Light", "Metal"],
+        "abilities": ["Awakening", "Applied Frustration"]
+    },
+    "vambat": {
+        "name": "Vambat",
+        "loomipedia_id": "013",
+        "type": ["Dark"],
+        "abilities": ["Awakening", "Demanding"]
+    },
+    "dimpire": {
+        "name": "Dimpire",
+        "loomipedia_id": "014",
+        "type": ["Dark"],
+        "abilities": ["Awakening", "Demanding"]
+    },
+    "vesperatu": {
+        "name": "Vesperatu",
+        "loomipedia_id": "015",
+        "type": ["Dark", "Spirit"],
+        "abilities": ["Awakening", "Demanding"]
+    },
+    "snocub": {
+        "name": "Snocub",
+        "loomipedia_id": "016",
+        "type": ["Ice"],
+        "abilities": ["Awakening", "Staunch"]
+    },
+    "snowki": {
+        "name": "Snowki",
+        "loomipedia_id": "017",
+        "type": ["Ice"],
+        "abilities": ["Awakening", "Staunch"]
+    },
+    "himbrr": {
+        "name": "Himbrr",
+        "loomipedia_id": "018",
+        "type": ["Ice", "Earth"],
+        "abilities": ["Awakening", "Staunch"]
+    },
+    "weevolt": {
+        "name": "Weevolt",
+        "loomipedia_id": "019",
+        "type": ["Electric"],
+        "abilities": ["Awakening", "Brute Force"]
+    },
+    "stozap": {
+        "name": "Stozap",
+        "loomipedia_id": "020",
+        "type": ["Electric"],
+        "abilities": ["Awakening", "Brute Force"]
+    },
+    "zuelong": {
+        "name": "Zuelong",
+        "loomipedia_id": "021",
+        "type": ["Electric", "Ancient"],
+        "abilities": ["Awakening", "Brute Force"]
+    },
+    "twilat": {
+        "name": "Twilat",
+        "loomipedia_id": "022",
+        "type": ["Simple"],
+        "abilities": ["Territorial", "Confidence", "Neutralize"]
+    },
+    "umbrat": {
+        "name": "Umbrat",
+        "loomipedia_id": "023",
+        "type": ["Dark"],
+        "abilities": ["Dusk", "Confidence", "Overshadow"]
+    },
+    "luxoar": {
+        "name": "Luxoar",
+        "loomipedia_id": "024",
+        "type": ["Light"],
+        "abilities": ["Dawn", "Confidence", "Illuminate"]
+    },
+    "tiklipse": {
+        "name": "Tiklipse",
+        "loomipedia_id": "025",
+        "type": ["Light", "Dark"],
+        "abilities": ["Circadian", "Total Eclipse"]
+    },
+    "cathorn": {
+        "name": "Cathorn",
+        "loomipedia_id": "026",
+        "type": ["Bug"],
+        "abilities": ["Hasty", "Defensive Priority"]
+    },
+    "propae": {
+        "name": "Propae",
+        "loomipedia_id": "027",
+        "type": ["Bug"],
+        "abilities": ["Hasty", "Defensive Priority"]
+    },
+    "cynamoth": {
+        "name": "Cynamoth",
+        "loomipedia_id": "028",
+        "type": ["Bug", "Air"],
+        "abilities": ["Mystery Toxins", "Flutter"]
+    },
+    "sumobito": {
+        "name": "Sumobito",
+        "loomipedia_id": "029",
+        "type": ["Bug", "Brawler"],
+        "abilities": ["Guru", "Double Strike"]
+    },
+    "twittle": {
+        "name": "Twittle",
+        "loomipedia_id": "030",
+        "type": ["Air"],
+        "abilities": ["Madcap", "Confidence", "Rev Up"]
+    },
+    "paratweet": {
+        "name": "Paratweet",
+        "loomipedia_id": "031",
+        "type": ["Air"],
+        "abilities": ["Madcap", "Confidence", "Rev Up"]
+    },
+    "avitross": {
+        "name": "Avitross",
+        "loomipedia_id": "032",
+        "type": ["Air"],
+        "abilities": ["Madcap", "Confidence", "Rev Up"]
+    },
+    "pyder": {
+        "name": "Pyder",
+        "loomipedia_id": "033",
+        "type": ["Bug", "Toxic"],
+        "abilities": ["Webbing", "Apprehension", "Coursing Venom"]
+    },
+    "swolder": {
+        "name": "Swolder",
+        "loomipedia_id": "034",
+        "type": ["Bug", "Toxic"],
+        "abilities": ["Webbing", "Apprehension", "Coursing Venom"]
+    },
+    "antsee": {
+        "name": "Antsee",
+        "loomipedia_id": "035",
+        "type": ["Plant", "Bug"],
+        "abilities": ["Mystery Toxins", "Woodsman", "Drainage"]
+    },
+    "florant": {
+        "name": "Florant",
+        "loomipedia_id": "036",
+        "type": ["Plant", "Bug"],
+        "abilities": ["Mystery Toxins", "Woodsman", "Drainage"]
+    },
+    "flychomp_florant": {
+        "name": "Flychomp Florant",
+        "loomipedia_id": "036sb",
+        "type": ["Plant", "Bug"],
+        "abilities": ["Power Jaw"]
+    },
+    "grubby": {
+        "name": "Grubby",
+        "loomipedia_id": "037",
+        "type": ["Bug"],
+        "abilities": ["Odd Husk", "Premonition", "Defensive Priority"]
+    },
+    "coonucopia": {
+        "name": "Coonucopia",
+        "loomipedia_id": "038",
+        "type": ["Bug"],
+        "abilities": ["Odd Husk", "Premonition", "Defensive Priority"]
+    },
+    "terrafly": {
+        "name": "Terrafly",
+        "loomipedia_id": "039",
+        "type": ["Bug", "Toxic"],
+        "abilities": ["Hotfoot", "Ambush", "Bug Fever"]
+    },
+    "terraclaw": {
+        "name": "Terraclaw",
+        "loomipedia_id": "040",
+        "type": ["Bug"],
+        "abilities": ["Hotfoot", "Pincer Trap", "Slick Shell"]
+    },
+    "kleptyke": {
+        "name": "Kleptyke",
+        "loomipedia_id": "041",
+        "type": ["Dark"],
+        "abilities": ["Burglar", "Apprehension", "Ability Thief"]
+    },
+    "ragoon": {
+        "name": "Ragoon",
+        "loomipedia_id": "042",
+        "type": ["Dark"],
+        "abilities": ["Burglar", "Apprehension", "Ability Thief"]
+    },
+    "babore": {
+        "name": "Babore",
+        "loomipedia_id": "043",
+        "type": ["Earth"],
+        "abilities": ["Boast", "Resilience"]
+    },
+    "boarrok": {
+        "name": "Boarrok",
+        "loomipedia_id": "044",
+        "type": ["Earth"],
+        "abilities": ["Boast", "Resilience"]
+    },
+    "geklow": {
+        "name": "Geklow",
+        "loomipedia_id": "045",
+        "type": ["Electric", "Light"],
+        "abilities": ["Lightning Rod", "Radiance", "Prismatic"]
+    },
+    "eleguana": {
+        "name": "Eleguana",
+        "loomipedia_id": "046",
+        "type": ["Electric", "Light"],
+        "abilities": ["Lightning Rod", "Radiance", "Prismatic"]
+    },
+    "slugling": {
+        "name": "Slugling",
+        "loomipedia_id": "047",
+        "type": ["Plant"],
+        "abilities": ["Mystery Toxins", "Ungracious Host", "Slimy"]
+    },
+    "escargrow": {
+        "name": "Escargrow",
+        "loomipedia_id": "048",
+        "type": ["Plant"],
+        "abilities": ["Mystery Toxins", "Ungracious Host", "Slimy"]
+    },
+    "gastroak": {
+        "name": "Gastroak",
+        "loomipedia_id": "049",
+        "type": ["Plant"],
+        "abilities": ["Mystery Toxins", "Ungracious Host", "Slimy"]
+    },
+    "terraform_gastroak": {
+        "name": "Terraform Gastroak",
+        "loomipedia_id": "049sb",
+        "type": ["Plant", "Earth"],
+        "abilities": ["Insulated"]
+    },
+    "kabunga": {
+        "name": "Kabunga",
+        "loomipedia_id": "050",
+        "type": ["Plant"],
+        "abilities": ["Communication", "Territorial", "Noxious Weeds"]
+    },
+    "halloween_kabunga": {
+        "name": "Kabunga",
+        "loomipedia_id": "050hw",
+        "type": ["Plant", "Mind"],
+        "abilities": ["Communication", "Expertise", "Noxious Weeds"]
+    },
+    "wiki-wiki": {
+        "name": "Wiki-Wiki",
+        "loomipedia_id": "051",
+        "type": ["Plant"],
+        "abilities": ["Communication", "Compliant", "Noxious Weeds"]
+    },
+    "chartiki": {
+        "name": "Chartiki",
+        "loomipedia_id": "052",
+        "type": ["Plant", "Fire"],
+        "abilities": ["Communication", "Inferno", "Noxious Weeds"]
+    },
+    "waka-laka": {
+        "name": "Waka-Laka",
+        "loomipedia_id": "053",
+        "type": ["Plant", "Mind"],
+        "abilities": ["Communication", "Expertise", "Mycotic"]
+    },
+    "shawchi": {
+        "name": "Shawchi",
+        "loomipedia_id": "054",
+        "type": ["Mind"],
+        "abilities": ["Enchant", "Sharp Focus"]
+    },
+    "rakrawla": {
+        "name": "Rakrawla",
+        "loomipedia_id": "055",
+        "type": ["Earth"],
+        "abilities": ["Clutch", "Hasty", "Lazy"]
+    },
+    "sedimars": {
+        "name": "Sedimars",
+        "loomipedia_id": "056",
+        "type": ["Earth"],
+        "abilities": ["Clutch", "Hasty", "Lazy"]
+    },
+    "gumpod": {
+        "name": "Gumpod",
+        "loomipedia_id": "057",
+        "type": ["Water"],
+        "abilities": ["Protective Shell", "Sharp Edges"]
+    },
+    "ventacean": {
+        "name": "Ventacean",
+        "loomipedia_id": "058",
+        "type": ["Water"],
+        "abilities": ["Protective Shell", "Sharp Edges"]
+    },
+    "phancub": {
+        "name": "Phancub",
+        "loomipedia_id": "059",
+        "type": ["Spirit", "Brawler"],
+        "abilities": ["Sharp Claws", "Adorable"]
+    },
+    "ursoul": {
+        "name": "Ursoul",
+        "loomipedia_id": "060",
+        "type": ["Spirit", "Brawler"],
+        "abilities": ["Prowler", "Terrifying"]
+    },
+    "ursnac": {
+        "name": "Ursnac",
+        "loomipedia_id": "061",
+        "type": ["Spirit", "Brawler"],
+        "abilities": ["Tank", "Terrifying", "Bursting Seams"]
+    },
+    "whispup": {
+        "name": "Whispup",
+        "loomipedia_id": "062",
+        "type": ["Spirit", "Fire"],
+        "abilities": ["Temper", "Scorching Skin", "Vengeance"]
+    },
+    "revenine": {
+        "name": "Revenine",
+        "loomipedia_id": "063",
+        "type": ["Spirit", "Fire"],
+        "abilities": ["Temper", "Prowler", "Vengeance"]
+    },
+    "skilava": {
+        "name": "Skilava",
+        "loomipedia_id": "064",
+        "type": ["Fire"],
+        "abilities": ["Combustible", "Scorching Skin", "Pyro"]
+    },
+    "geksplode": {
+        "name": "Geksplode",
+        "loomipedia_id": "065",
+        "type": ["Fire"],
+        "abilities": ["Combustible", "Scorching Skin", "Pyro"]
+    },
+    "eruptidon": {
+        "name": "Eruptidon",
+        "loomipedia_id": "066",
+        "type": ["Fire"],
+        "abilities": ["Combustible", "Scorching Skin", "Pyro"]
+    },
+    "magmadire_eruptidon": {
+        "name": "Magmadire Eruptidon",
+        "loomipedia_id": "066sb",
+        "type": ["Fire", "Earth"],
+        "abilities": ["Pyro Pro"]
+    },
+    "craytal": {
+        "name": "Craytal",
+        "loomipedia_id": "067",
+        "type": ["Fire"],
+        "abilities": ["Volcanic", "Territorial", "Combustible"]
+    },
+    "krakaloa": {
+        "name": "Krakaloa",
+        "loomipedia_id": "068",
+        "type": ["Fire"],
+        "abilities": ["Volcanic", "Scorching Skin", "Combustible"]
+    },
+    "lavafiend_krakaloa": {
+        "name": "Lavafiend Krakaloa",
+        "loomipedia_id": "068sb",
+        "type": ["Fire", "Spirit"],
+        "abilities": ["Heat Summon"]
+    },
+    "volkaloa": {
+        "name": "Volkaloa",
+        "loomipedia_id": "069",
+        "type": ["Fire"],
+        "abilities": ["Volcanic", "Berserk", "Combustible"]
+    },
+    "festifir": {
+        "name": "Festifir",
+        "loomipedia_id": "070",
+        "type": ["Ice", "Plant"],
+        "abilities": ["Chill", "Parting Gift", "Regift"]
+    },
+    "igneol": {
+        "name": "Igneol",
+        "loomipedia_id": "071",
+        "type": ["Ancient"],
+        "abilities": ["Premonition", "Sharp Edges", "Resilience"]
+    },
+    "chrysite": {
+        "name": "Chrysite",
+        "loomipedia_id": "072",
+        "type": ["Ancient"],
+        "abilities": ["Premonition", "Sharp Edges", "Resilience"]
+    },
+    "obsidrugon": {
+        "name": "Obsidrugon",
+        "loomipedia_id": "073",
+        "type": ["Ancient"],
+        "abilities": ["Premonition", "Sharp Edges", "Resilience"]
+    },
+    "cafnote_M": {
+        "name": "Cafnote",
+        "loomipedia_id": "074m",
+        "type": ["Simple"],
+        "abilities": ["Triumph", "Virtuoso", "Brute Force"]
+    },
+    "cafnote_F": {
+        "name": "Cafnote",
+        "loomipedia_id": "074f",
+        "type": ["Simple"],
+        "abilities": ["Adorable", "Virtuoso", "Tone Deaf"]
+    },
+    "trumbull": {
+        "name": "Trumbull",
+        "loomipedia_id": "075",
+        "type": ["Simple"],
+        "abilities": ["Triumph", "Virtuoso", "Brute Force"]
+    },
+    "mootune": {
+        "name": "Mootune",
+        "loomipedia_id": "076",
+        "type": ["Simple"],
+        "abilities": ["Adorable", "Virtuoso", "Tone Deaf"]
+    },
+    "gobbidemic": {
+        "name": "Gobbidemic",
+        "loomipedia_id": "077",
+        "type": ["Toxic"],
+        "abilities": ["Immunized", "Baneful"]
+    },
+    "icigool": {
+        "name": "Icigool",
+        "loomipedia_id": "078",
+        "type": ["Ice", "Spirit"],
+        "abilities": ["Parting Gift", "Expertise", "Power Jaw"]
+    },
+    "incarnate_icigool": {
+        "name": "Incarnate Icigool",
+        "loomipedia_id": "078sb",
+        "type": ["Ice", "Spirit"],
+        "abilities": ["Party Trick"]
+    },
+    "pyramind": {
+        "name": "Pyramind",
+        "loomipedia_id": "079",
+        "type": ["Mind"],
+        "abilities": ["Idiosyncratic", "Temper", "Reign"]
+    },
+    "pharoglyph": {
+        "name": "Pharoglyph",
+        "loomipedia_id": "080",
+        "type": ["Mind"],
+        "abilities": ["Idiosyncratic", "Temper", "Reign"]
+    },
+    "burroach": {
+        "name": "Burroach",
+        "loomipedia_id": "081",
+        "type": ["Bug", "Earth"],
+        "abilities": ["Slimy", "Trash Armor", "Sharp Claws"]
+    },
+    "garbantis": {
+        "name": "Garbantis",
+        "loomipedia_id": "082",
+        "type": ["Bug", "Earth"],
+        "abilities": ["Slimy", "Trash Armor", "Sharp Claws"]
+    },
+    "whimpor": {
+        "name": "Whimpor",
+        "loomipedia_id": "083",
+        "type": ["Metal", "Air"],
+        "abilities": ["Clutch", "Frail Armor", "Toxic Filter"]
+    },
+    "stratusoar": {
+        "name": "Stratusoar",
+        "loomipedia_id": "084",
+        "type": ["Metal", "Air"],
+        "abilities": ["Clutch", "Frail Armor", "Toxic Filter"]
+    },
+    "jetwing_stratusoar": {
+        "name": "Jetwing Stratusoar",
+        "loomipedia_id": "084sb",
+        "type": ["Metal", "Air"],
+        "abilities": ["Turbulent"]
+    },
+    "territi": {
+        "name": "Territi",
+        "loomipedia_id": "085",
+        "type": ["Toxic", "Metal"],
+        "abilities": ["Confidence", "Immunized", "Handy"]
+    },
+    "dyeborg": {
+        "name": "Dyeborg",
+        "loomipedia_id": "086",
+        "type": ["Toxic", "Metal"],
+        "abilities": ["Tank", "Immunized", "Handy"]
+    },
+    "operaptor": {
+        "name": "Operaptor",
+        "loomipedia_id": "087",
+        "type": ["Metal", "Earth"],
+        "abilities": ["Terrifying", "Power Jaw", "Over Clock"]
+    },
+    "concredon": {
+        "name": "Concredon",
+        "loomipedia_id": "088",
+        "type": ["Metal", "Earth"],
+        "abilities": ["Terrifying", "Power Jaw", "Over Clock"]
+    },
+    "tyrecks": {
+        "name": "Tyrecks",
+        "loomipedia_id": "089",
+        "type": ["Metal", "Earth"],
+        "abilities": ["Terrifying", "Power Jaw", "Over Clock"]
+    },
+    "chompactor": {
+        "name": "Chompactor",
+        "loomipedia_id": "090",
+        "type": ["Metal"],
+        "abilities": ["Rev Up", "Salvage", "Specialization"]
+    },
+    "munchweel": {
+        "name": "Munchweel",
+        "loomipedia_id": "091",
+        "type": ["Metal"],
+        "abilities": ["Rev Up", "Forge", "Specialization"]
+    },
+    "scorb": {
+        "name": "Scorb",
+        "loomipedia_id": "092",
+        "type": ["Metal"],
+        "abilities": ["Communication", "Hover", "Clutch"]
+    },
+    "veylens": {
+        "name": "Veylens",
+        "loomipedia_id": "093",
+        "type": ["Metal"],
+        "abilities": ["Communication", "Hover", "Clutch"]
+    },
+    "gardrone": {
+        "name": "Gardrone",
+        "loomipedia_id": "094",
+        "type": ["Metal"],
+        "abilities": ["Communication", "Hover", "Clutch"]
+    },
+    "poochrol": {
+        "name": "Poochrol",
+        "loomipedia_id": "095",
+        "type": ["Metal", "Electric"],
+        "abilities": ["Brute Force", "Power Jaw"]
+    },
+    "hunder": {
+        "name": "Hunder",
+        "loomipedia_id": "096",
+        "type": ["Metal", "Electric"],
+        "abilities": ["Brute Force", "Power Jaw"]
+    },
+    "goppie": {
+        "name": "Goppie",
+        "loomipedia_id": "097",
+        "type": ["Water"],
+        "abilities": ["Adorable", "Rain Rush", "Quick Recovery"]
+    },
+    "arapaigo": {
+        "name": "Arapaigo",
+        "loomipedia_id": "098",
+        "type": ["Water"],
+        "abilities": ["Finesse", "Rain Rush", "Quick Recovery"]
+    },
+    "pyke": {
+        "name": "Pyke",
+        "loomipedia_id": "099",
+        "type": ["Ancient", "Water"],
+        "abilities": ["Combative", "Bitter Touch", "Brute Force"]
+    },
+    "skelic": {
+        "name": "Skelic",
+        "loomipedia_id": "100",
+        "type": ["Ancient", "Water"],
+        "abilities": ["Combative", "Bitter Touch", "Brute Force"]
+    },
+    "seascourge_skelic": {
+        "name": "Seascourge Skelic",
+        "loomipedia_id": "100sb",
+        "type": ["Ancient", "Water"],
+        "abilities": ["Rain Rush"]
+    },
+    "zaleo": {
+        "name": "Zaleo",
+        "loomipedia_id": "101",
+        "type": ["Ancient", "Electric"],
+        "abilities": ["Adorable", "Driven", "Overcharged"]
+    },
+    "joltooth": {
+        "name": "Joltooth",
+        "loomipedia_id": "102",
+        "type": ["Ancient", "Electric"],
+        "abilities": ["Ambush", "Driven", "Overcharged"]
+    },
+    "thunderking_joltooth": {
+        "name": "Thunderking Joltooth",
+        "loomipedia_id": "102sb",
+        "type": ["Ancient", "Electric"],
+        "abilities": ["Overcharged"]
+    },
+    "dobo": {
+        "name": "Dobo",
+        "loomipedia_id": "103",
+        "type": ["Ancient", "Fire"],
+        "abilities": ["Hotfoot", "Pyro", "Power Napper"]
+    },
+    "infernix": {
+        "name": "Infernix",
+        "loomipedia_id": "104",
+        "type": ["Ancient", "Fire"],
+        "abilities": ["Hotfoot", "Pyro", "Power Napper"]
+    },
+    "kyogo": {
+        "name": "Kyogo",
+        "loomipedia_id": "105",
+        "type": ["Ancient", "Dark"],
+        "abilities": ["Anomaly", "Surrogate"]
+    },
+    "dorogo": {
+        "name": "Dorogo",
+        "loomipedia_id": "106",
+        "type": ["Ancient", "Dark"],
+        "abilities": ["Anomaly", "Surrogate"]
+    },
+    "wiledile": {
+        "name": "Wiledile",
+        "loomipedia_id": "107",
+        "type": ["Water", "Plant"],
+        "abilities": ["Swampy", "Woodsman"]
+    },
+    "mawamurk": {
+        "name": "Mawamurk",
+        "loomipedia_id": "108",
+        "type": ["Water", "Plant"],
+        "abilities": ["Swampy", "Woodsman"]
+    },
+    "ampole": {
+        "name": "Ampole",
+        "loomipedia_id": "109",
+        "type": ["Electric"],
+        "abilities": ["Watcher", "Specialization", "Sly"]
+    },
+    "amphiton": {
+        "name": "Amphiton",
+        "loomipedia_id": "110",
+        "type": ["Electric", "Mind"],
+        "abilities": ["Watcher", "Specialization", "Sly"]
+    },
+    "meditoad": {
+        "name": "Meditoad",
+        "loomipedia_id": "111",
+        "type": ["Eletric", "Mind"],
+        "abilities": ["Watcher", "Specialization", "Sly"]
+    },
+    "pwuff": {
+        "name": "Pwuff",
+        "loomipedia_id": "112",
+        "type": ["Water", "Toxic"],
+        "abilities": ["Toxic Spines", "Sharp Edges", "Baneful"]
+    },
+    "bloatox": {
+        "name": "Bloatox",
+        "loomipedia_id": "113",
+        "type": ["Water", "Toxic"],
+        "abilities": ["Toxic Spines", "Sharp Edges", "Baneful"]
+    },
+    "barblast": {
+        "name": "Barblast",
+        "loomipedia_id": "114",
+        "type": ["Water", "Toxic"],
+        "abilities": ["Toxic Spines", "Parting Gift", "High Explosive"]
+    },
+    "swimp": {
+        "name": "Swimp",
+        "loomipedia_id": "115",
+        "type": ["Water"],
+        "abilities": ["Apprehension", "Power Jaw", "Devious"]
+    },
+    "snapr": {
+        "name": "Snapr",
+        "loomipedia_id": "116",
+        "type": ["Water"],
+        "abilities": ["Terrifying", "Power Jaw", "Devious"]
+    },
+    "garlash": {
+        "name": "Garlash",
+        "loomipedia_id": "117",
+        "type": ["Water"],
+        "abilities": ["Terrifying", "Power Jaw", "Devious"]
+    },
+    "hydrini": {
+        "name": "Hydrini",
+        "loomipedia_id": "118",
+        "type": ["Bug", "Water"],
+        "abilities": ["Vivid Sight", "Rain Summon", "Aqua Body"]
+    },
+    "bezeldew": {
+        "name": "Bezeldew",
+        "loomipedia_id": "119",
+        "type": ["Bug", "Water"],
+        "abilities": ["Vivid Sight", "Rain Summon", "Aqua Body"]
+    },
+    "deludrix": {
+        "name": "Deludrix",
+        "loomipedia_id": "120",
+        "type": ["Bug", "Water"],
+        "abilities": ["Vivid Sight", "Rain Summon", "Aqua Body"]
+    },
+    "ceratot": {
+        "name": "Ceratot",
+        "loomipedia_id": "121",
+        "type": ["Ancient", "Plant"],
+        "abilities": ["Frail Armor", "Staunch", "Vigorous"]
+    },
+    "trepodon": {
+        "name": "Trepodon",
+        "loomipedia_id": "122",
+        "type": ["Ancient", "Plant"],
+        "abilities": ["Frail Armor", "Staunch", "Vigorous"]
+    },
+    "colossotrops": {
+        "name": "Colossotrops",
+        "loomipedia_id": "123",
+        "type": ["Ancient", "Plant"],
+        "abilities": ["Frail Armor", "Staunch", "Vigorous"]
+    },
+    "cupoink": {
+        "name": "Cupoink",
+        "loomipedia_id": "124",
+        "type": ["Fire"],
+        "abilities": ["Caddie", "Madcap", "Sweet Touch"]
+    },
+    "hoganosh": {
+        "name": "Hoganosh",
+        "loomipedia_id": "125",
+        "type": ["Fire"],
+        "abilities": ["Caddie", "Madcap", "Sweet Touch"]
+    },
+    "atomic_hoganosh": {
+        "name": "Atomic Hoganosh",
+        "loomipedia_id": "125sb",
+        "type": ["Fire"],
+        "abilities": ["Gorge"]
+    },
+    "mochibi": {
+        "name": "Mochibi",
+        "loomipedia_id": "126",
+        "type": ["Ice"],
+        "abilities": ["Sugar Rush", "Lucky", "Shakedown"]
+    },
+    "totemochi": {
+        "name": "Totemochi",
+        "loomipedia_id": "127",
+        "type": ["Ice"],
+        "abilities": ["Sugar Rush", "Lucky", "Shakedown"]
+    },
+    "mocho": {
+        "name": "Mocho",
+        "loomipedia_id": "128",
+        "type": ["Ice"],
+        "abilities": ["Sugar Rush", "Lucky", "Shakedown"]
+    },
+    "gwurm": {
+        "name": "Gwurm",
+        "loomipedia_id": "129",
+        "type": ["Bug"],
+        "abilities": ["Clingy", "Hard Candy", "Defensive Priority"]
+    },
+    "odasho": {
+        "name": "Odasho",
+        "loomipedia_id": "130",
+        "type": ["Bug"],
+        "abilities": ["Clingy", "Hard Candy", "Defensive Priority"]
+    },
+    "spreezy": {
+        "name": "Spreezy",
+        "loomipedia_id": "131",
+        "type": ["Bug"],
+        "abilities": ["Clingy", "Hard Candy", "Defensive Priority"]
+    },
+    "pipsee": {
+        "name": "Pipsee",
+        "loomipedia_id": "132",
+        "type": ["Plant", "Air"],
+        "abilities": ["Glide", "Wind Summon", "Vigilant"]
+    },
+    "dandylil": {
+        "name": "Dandylil",
+        "loomipedia_id": "133",
+        "type": ["Plant", "Air"],
+        "abilities": ["Glide", "Wind Summon", "Vigilant"]
+    },
+    "whippledriff": {
+        "name": "Whippledriff",
+        "loomipedia_id": "134",
+        "type": ["Plant", "Air"],
+        "abilities": ["Glide", "Wind Summon", "Vigilant"]
+    },
+    "vari": {
+        "name": "Vari",
+        "loomipedia_id": "135",
+        "type": ["Simple"],
+        "abilities": ["Guardian", "Apprehension", "Adorable"]
+    },
+    "cervolen": {
+        "name": "Cervolen",
+        "loomipedia_id": "136",
+        "type": ["Simple"],
+        "abilities": ["Confidence", "Boast", "Vengeance"]
+    },
+    "wendolen": {
+        "name": "Wendolen",
+        "loomipedia_id": "137",
+        "type": ["Spirit"],
+        "abilities": ["Gloomy", "Sharp Claws", "Finesse"]
+    },
+    "kirolen": {
+        "name": "Kirolen",
+        "loomipedia_id": "138",
+        "type": ["Ancient"],
+        "abilities": ["Shakedown", "Hasty", "Devious"]
+    },
+    "zepholen": {
+        "name": "Zepholen",
+        "loomipedia_id": "139",
+        "type": ["Air"],
+        "abilities": ["Tumultuous", "Sharp Focus", "Turbulent"]
+    },
+    "venolen": {
+        "name": "Venolen",
+        "loomipedia_id": "140",
+        "type": ["Toxic"],
+        "abilities": ["Toxic Touch", "Devious", "Baneful"]
+    },
+    "wresolen": {
+        "name": "Wresolen",
+        "loomipedia_id": "141",
+        "type": ["Brawler"],
+        "abilities": ["Ignorant", "Aggressive", "Ace"]
+    },
+    "buzzolen": {
+        "name": "Buzzolen",
+        "loomipedia_id": "142",
+        "type": ["Bug"],
+        "abilities": ["Marksman", "Vigorous", "Sweet Aroma"]
+    },
+    "tundrolen": {
+        "name": "Tundrolen",
+        "loomipedia_id": "143",
+        "type": ["Ice"],
+        "abilities": ["Mysterious Cloak", "Insulated", "Resilience"]
+    },
+    "pyrolen": {
+        "name": "Pyrolen",
+        "loomipedia_id": "144",
+        "type": ["Fire"],
+        "abilities": ["Volcanic", "Fanning Flame", "Quick Recovery"]
+    },
+    "hydrolen": {
+        "name": "Hydrolen",
+        "loomipedia_id": "145",
+        "type": ["Water"],
+        "abilities": ["Vigilant", "Hydrate", "Luck Of The Sea"]
+    },
+    "copling": {
+        "name": "Copling",
+        "loomipedia_id": "153",
+        "type": ["Ancient", "Metal"],
+        "abilities": ["Oxidize", "Devious", "Playful"]
+    },
+    "copperage": {
+        "name": "Copperage",
+        "loomipedia_id": "154",
+        "type": ["Ancient", "Metal"],
+        "abilities": ["Oxidize", "Devious", "Playful"]
+    },
+    "oxidrake": {
+        "name": "Oxidrake",
+        "loomipedia_id": "155",
+        "type": ["Ancient", "Metal"],
+        "abilities": ["Oxidize", "Devious", "Combative"]
+    },
+    "spirivii": {
+        "name": "Spirivii",
+        "loomipedia_id": "156",
+        "type": ["Bug", "Spirit"],
+        "abilities": ["Life Force"]
+    },
+    "eidohusk": {
+        "name": "Eidohusk",
+        "loomipedia_id": "157",
+        "type": ["Bug", "Spirit"],
+        "abilities": ["Life Force"]
+    },
+    "harvesect": {
+        "name": "Harvesect",
+        "loomipedia_id": "158",
+        "type": ["Bug", "Spirit"],
+        "abilities": ["Life Force"]
+    },
+    "snowl": {
+        "name": "Snowl",
+        "loomipedia_id": "159",
+        "type": ["Ice"],
+        "abilities": ["Chill", "Wise", "Glide"]
+    },
+    "stricicle": {
+        "name": "Stricicle",
+        "loomipedia_id": "160",
+        "type": ["Ice", "Air"],
+        "abilities": ["Chill", "Wise", "Glide"]
+    },
+    "wintrix": {
+        "name": "Wintrix",
+        "loomipedia_id": "161",
+        "type": ["Ice", "Air"],
+        "abilities": ["Chill", "Wise", "Glide"]
+    },
+    "snagull": {
+        "name": "Snagull",
+        "loomipedia_id": "162",
+        "type": ["Air"],
+        "abilities": ["Immunized", "Clingy", "Marksman"]
+    },
+    "snagulp": {
+        "name": "Snagulp",
+        "loomipedia_id": "163",
+        "type": ["Air", "Toxic"],
+        "abilities": ["Immunized", "Clingy", "Marksman"]
+    },
+    "snagoop": {
+        "name": "Snagoop",
+        "loomipedia_id": "164",
+        "type": ["Air", "Toxic"],
+        "abilities": ["Immunized", "Clingy", "Marksman"]
+    },
+    "makame": {
+        "name": "Makame",
+        "loomipedia_id": "165",
+        "type": ["Water"],
+        "abilities": ["Tone Deaf", "Frail Armor", "Quick Recovery"]
+    },
+    "makoro": {
+        "name": "Makoro",
+        "loomipedia_id": "166",
+        "type": ["Water"],
+        "abilities": ["Tone Deaf", "Frail Armor", "Quick Recovery"]
+    },
+    "tsukame": {
+        "name": "Tsukame",
+        "loomipedia_id": "167",
+        "type": ["Water"],
+        "abilities": ["Tone Deaf", "Frail Armor", "Quick Recovery"]
+    },
+    "cavenish": {
+        "name": "Cavenish",
+        "loomipedia_id": "168",
+        "type": ["Water", "Plant"],
+        "abilities": ["Conspire", "Bully", "Sly"]
+    },
+    "banfino": {
+        "name": "Banfino",
+        "loomipedia_id": "169",
+        "type": ["Water", "Plant"],
+        "abilities": ["Conspire", "Bully", "Sly"]
+    },
+    "kanki": {
+        "name": "Kanki",
+        "loomipedia_id": "170",
+        "type": ["Water", "Brawler"],
+        "abilities": ["Madcap", "Aggressive", "Ambush"]
+    },
+    "kanibo": {
+        "name": "Kanibo",
+        "loomipedia_id": "171",
+        "type": ["Water", "Brawler"],
+        "abilities": ["Madcap", "Aggressive", "Ambush"]
+    },
+    "sharpod": {
+        "name": "Sharpod",
+        "loomipedia_id": "172",
+        "type": ["Water", "Metal"],
+        "abilities": ["Rev Up", "Terrifying", "Frenzy"]
+    },
+    "samarine": {
+        "name": "Samarine",
+        "loomipedia_id": "173",
+        "type": ["Water", "Metal"],
+        "abilities": ["Rev Up", "Terrifying", "Frenzy"]
+    },
+    "lumica": {
+        "name": "Lumica",
+        "loomipedia_id": "174",
+        "type": ["Water"],
+        "abilities": ["Premonition", "Sharp Edges", "Repugnant"]
+    },
+    "lumello": {
+        "name": "Lumello",
+        "loomipedia_id": "175",
+        "type": ["Water"],
+        "abilities": ["Premonition", "Sharp Edges", "Repugnant"]
+    },
+    "polypi": {
+        "name": "Polypi",
+        "loomipedia_id": "176",
+        "type": ["Water, Light"],
+        "abilities": ["Temper", "Enchanted Coat", "Incandescent"]
+    },
+    "laphyra": {
+        "name": "Laphyra",
+        "loomipedia_id": "177",
+        "type": ["Water, Light"],
+        "abilities": ["Temper", "Enchanted Coat", "Incandescent"]
+    },
+    "jellusa": {
+        "name": "Jellusa",
+        "loomipedia_id": "178",
+        "type": ["Water, Light"],
+        "abilities": ["Temper", "Enchanted Coat", "Incandescent"]
+    },
+    "taoshi": {
+        "name": "Taoshi",
+        "loomipedia_id": "179",
+        "type": ["Simple"],
+        "abilities": ["Enchanted Coat", "Adorable", "Confidence"]
+    },
+    "taoshinu": {
+        "name": "Taoshinu",
+        "loomipedia_id": "180",
+        "type": ["Simple"],
+        "abilities": ["Enchanted Coat", "Guardian", "Confidence"]
+    },
+    "kittone": {
+        "name": "Kittone",
+        "loomipedia_id": "181",
+        "type": ["Simple"],
+        "abilities": ["Tone Deaf", "Adorable", "Shakedown"]
+    },
+    "lyricat": {
+        "name": "Lyricat",
+        "loomipedia_id": "182",
+        "type": ["Simple"],
+        "abilities": ["Tone Deaf", "Burglar", "Shakedown"]
+    },
+    "boonary": {
+        "name": "Boonary",
+        "loomipedia_id": "183",
+        "type": ["Spirit"],
+        "abilities": ["Two Face"]
+    },
+    "somata": {
+        "name": "Somata",
+        "loomipedia_id": "184",
+        "type": ["Water", "Mind"],
+        "abilities": ["Repugnant", "Guardian", "Adorable"]
+    },
+    "clionae": {
+        "name": "Clionae",
+        "loomipedia_id": "185",
+        "type": ["Water", "Mind"],
+        "abilities": ["Repugnant", "Guardian", "Persistence"]
+    },
+    "cinaboo": {
+        "name": "Cinaboo",
+        "loomipedia_id": "186",
+        "type": ["Spirit"],
+        "abilities": ["Sweet Touch", "Playful", "Shakedown"]
+    },
+    "cinnogre": {
+        "name": "Cinnogre",
+        "loomipedia_id": "187",
+        "type": ["Spirit"],
+        "abilities": ["Sweet Touch", "Ignorant", "Shakedown"]
+    },
+    "swirelle": {
+        "name": "Swirelle",
+        "loomipedia_id": "188",
+        "type": ["Air"],
+        "abilities": ["Appetite"]
+    },
+    "swishy": {
+        "name": "Swishy",
+        "loomipedia_id": "189",
+        "type": ["Water"],
+        "abilities": ["Regift", "Gummy", "Viscid"]
+    },
+    "fiscarna": {
+        "name": "Fiscarna",
+        "loomipedia_id": "190",
+        "type": ["Water"],
+        "abilities": ["Regift", "Gummy", "Viscid"]
+    },
+    "bunpuff": {
+        "name": "Bunpuff",
+        "loomipedia_id": "191",
+        "type": ["Plant", "Earth"],
+        "abilities": ["Noxious Weeds", "Adorable", "Glutton"]
+    },
+    "bunnecki": {
+        "name": "Bunnecki",
+        "loomipedia_id": "192",
+        "type": ["Plant", "Earth"],
+        "abilities": ["Noxious Weeds", "Adorable", "Glutton"]
+    },
+    "dractus": {
+        "name": "Dractus",
+        "loomipedia_id": "193",
+        "type": ["Plant"],
+        "abilities": ["Insulated", "Protective Shell", "Anomaly"]
+    },
+    "frutress": {
+        "name": "Frutress",
+        "loomipedia_id": "194",
+        "type": ["Plant"],
+        "abilities": ["Insulated", "Sharp Edges", "Anomaly"]
+    },
+    "seedrake": {
+        "name": "Seedrake",
+        "loomipedia_id": "195",
+        "type": ["Plant"],
+        "abilities": ["Insulated", "Sharp Edges", "Anomaly"]
+    },
+    "volpup": {
+        "name": "Volpup",
+        "loomipedia_id": "196",
+        "type": ["Electric", "Toxic"],
+        "abilities": ["Aggressive", "Pitch-Black", "Mystery Toxins"]
+    },
+    "halvantic": {
+        "name": "Halvantic",
+        "loomipedia_id": "197",
+        "type": ["Electric", "Toxic"],
+        "abilities": ["Aggressive", "Pitch-Black", "Mystery Toxins"]
+    },
+    "impkin": {
+        "name": "Impkin",
+        "loomipedia_id": "198",
+        "type": ["Dark"],
+        "abilities": ["Resentful", "Devious", "Handy"]
+    },
+    "grimmick": {
+        "name": "Grimmick",
+        "loomipedia_id": "199",
+        "type": ["Dark"],
+        "abilities": ["Resentful", "Devious", "Handy"]
+    },
+    "imperior": {
+        "name": "Imperior",
+        "loomipedia_id": "200",
+        "type": ["Dark"],
+        "abilities": ["Resentful", "Devious", "Handy"]
+    },
+    "mistlebud": {
+        "name": "Mistlebud",
+        "loomipedia_id": "201",
+        "type": ["Plant"],
+        "abilities": ["Festive Spirit"]
+    },
+    "hollibunch": {
+        "name": "Hollibunch",
+        "loomipedia_id": "202",
+        "type": ["Plant", "Light"],
+        "abilities": ["Festive Spirit"]
+    },
+    "cryocub": {
+        "name": "Cryocub",
+        "loomipedia_id": "203",
+        "type": ["Ice"],
+        "abilities": ["Adorable", "Communication", "Mysterious Cloak"]
+    },
+    "barbadger": {
+        "name": "Barbadger",
+        "loomipedia_id": "204",
+        "type": ["Ice", "Brawler"],
+        "abilities": ["Dauntless", "Communication", "Mysterious Cloak"]
+    },
+    "kyeggo": {
+        "name": "Kyeggo",
+        "loomipedia_id": "205",
+        "type": ["Dark"],
+        "abilities": ["Vivid Sight", "Anomaly", "Vicious"]
+    },
+    "doreggo": {
+        "name": "Doreggo",
+        "loomipedia_id": "206",
+        "type": ["Dark", "Air"],
+        "abilities": ["Vivid Sight", "Anomaly", "Vicious"]
+    },
+    "dreggodyne": {
+        "name": "Dreggodyne",
+        "loomipedia_id": "207",
+        "type": ["Dark", "Air"],
+        "abilities": ["Vivid Sight", "Staunch", "Vicious"]
+    },
+    "wispur": {
+        "name": "Wispur",
+        "loomipedia_id": "208",
+        "type": ["Spirit", "Light"],
+        "abilities": ["Fog Summon", "Radiance", "Captivating"]
+    },
+    "lampurge": {
+        "name": "Lampurge",
+        "loomipedia_id": "209",
+        "type": ["Spirit", "Light"],
+        "abilities": ["Fog Summon", "Radiance", "Captivating"]
+    },
+    "charonyx": {
+        "name": "Charonyx",
+        "loomipedia_id": "210",
+        "type": ["Spirit", "Light"],
+        "abilities": ["Fog Summon", "Radiance", "Reaper"]
+    },
+    "smoal": {
+        "name": "Smoal",
+        "loomipedia_id": "211",
+        "type": ["Fire", "Toxic"],
+        "abilities": ["Heat Summon", "Scorching Skin", "Blistering Heat"]
+    },
+    "charklin": {
+        "name": "Charklin",
+        "loomipedia_id": "212",
+        "type": ["Fire", "Toxic"],
+        "abilities": ["Heat Summon", "Scorching Skin", "Blistering Heat"]
+    },
+    "billoforge": {
+        "name": "Billoforge",
+        "loomipedia_id": "213",
+        "type": ["Fire", "Toxic"],
+        "abilities": ["Heat Summon", "Scorching Skin", "Blistering Heat"]
+    },
+    "sherbot": {
+        "name": "Sherbot",
+        "loomipedia_id": "214",
+        "type": ["Ice", "Metal"],
+        "abilities": ["Overclock", "Sugar Rush", "Chill"]
+    },
+    "llamba": {
+        "name": "Llamba",
+        "loomipedia_id": "215",
+        "type": ["Simple"],
+        "abilities": ["Playful", "Regurgitate", "Wholesome"]
+    },
+    "choochew": {
+        "name": "Choochew",
+        "loomipedia_id": "216",
+        "type": ["Simple"],
+        "abilities": ["Playful", "Regurgitate", "Wholesome"]
+    },
+    "loomala": {
+        "name": "Loomala",
+        "loomipedia_id": "217",
+        "type": ["Simple"],
+        "abilities": ["Herd Behavior", "Regurgitate", "Wholesome"]
+    },
+    "fentern": {
+        "name": "Fentern",
+        "loomipedia_id": "218",
+        "type": ["Simple"],
+        "abilities": ["Intern", "Rush Hour", "Trader"]
+    },
+    "weaselin": {
+        "name": "Weaselin",
+        "loomipedia_id": "219",
+        "type": ["Simple"],
+        "abilities": ["Partnership", "Rush Hour", "Trader"]
+    },
+    "singeel": {
+        "name": "Singeel",
+        "loomipedia_id": "220",
+        "type": ["Electric"],
+        "abilities": ["Safety Pot"]
+    },
+    "moreel": {
+        "name": "Moreel",
+        "loomipedia_id": "221",
+        "type": ["Electric", "Dark"],
+        "abilities": ["One of Many"]
+    },
+    "crabushi": {
+        "name": "Crabushi",
+        "loomipedia_id": "222",
+        "type": ["Metal", "Brawler"],
+        "abilities": ["Expertise", "Vengeance", "Razor Sharp"]
+    },
+    "crabtana": {
+        "name": "Crabtana",
+        "loomipedia_id": "223",
+        "type": ["Metal", "Brawler"],
+        "abilities": ["Expertise", "Vengeance", "Razor Sharp"]
+    },
+    "teripod": {
+        "name": "Teripod",
+        "loomipedia_id": "224",
+        "type": ["Ancient", "Light"],
+        "abilities": ["Watcher", "Illuminate", "Mesmerizing"]
+    },
+    "teridescent": {
+        "name": "Teridescent",
+        "loomipedia_id": "225",
+        "type": ["Ancient", "Light"],
+        "abilities": ["Watcher", "Illuminate", "Mesmerizing"]
+    },
+    "skampi": {
+        "name": "Skampi",
+        "loomipedia_id": "226",
+        "type": ["Water"],
+        "abilities": ["Protective Shell", "Clutch", "Trash Armor"]
+    },
+    "prawnsu": {
+        "name": "Prawnsu",
+        "loomipedia_id": "227",
+        "type": ["Water"],
+        "abilities": ["Applied Frustration", "Clutch", "Vicious"]
+    },
+    "shrimposte": {
+        "name": "Shrimposte",
+        "loomipedia_id": "228",
+        "type": ["Water"],
+        "abilities": ["Combative", "Clutch", "Vicious"]
+    },
+    "dokan": {
+        "name": "Dokan",
+        "loomipedia_id": "229",
+        "type": ["Earth", "Toxic"],
+        "abilities": ["Spine Break", "Immunized", "Sponge"]
+    },
+    "dokumori": {
+        "name": "Dokumori",
+        "loomipedia_id": "230",
+        "type": ["Earth", "Toxic"],
+        "abilities": ["Spine Break", "Immunized", "Sponge"]
+    },
+    "mirrami": {
+        "name": "Mirrami",
+        "loomipedia_id": "231",
+        "type": ["Spirit", "Metal"],
+        "abilities": ["Reflective", "Mimic", "Analyze"]
+    },
+    "mirraith": {
+        "name": "Mirraith",
+        "loomipedia_id": "232",
+        "type": ["Spirit", "Metal"],
+        "abilities": ["Reflective", "Mimic", "Analyze"]
+    },
+    "thawmin": {
+        "name": "Thawmin",
+        "loomipedia_id": "233",
+        "type": ["Ice", "Mind"],
+        "abilities": ["Communication", "Expertise", "Foresight"]
+    },
+    "leshent": {
+        "name": "Leshent",
+        "loomipedia_id": "234",
+        "type": ["Plant", "Dark"],
+        "abilities": ["Gloomy", "Watcher", "Petrifying"]
+    },
+    "kayute": {
+        "name": "Kayute",
+        "loomipedia_id": "235",
+        "type": ["Ice", "Dark"],
+        "abilities": ["Ravenous", "Playful", "Designated Chompers"]
+    },
+    "kayappa": {
+        "name": "Kayappa",
+        "loomipedia_id": "236",
+        "type": ["Ice", "Dark"],
+        "abilities": ["Ravenous", "Playful", "Designated Chompers"]
+    },
+    "kramboss": {
+        "name": "Kramboss",
+        "loomipedia_id": "237",
+        "type": ["Ice", "Dark"],
+        "abilities": ["Ravenous", "Playful", "Designated Chompers"]
+    },
+    "leopaw": {
+        "name": "Leopaw",
+        "loomipedia_id": "238",
+        "type": ["Light", "Ice"],
+        "abilities": ["Sharp Claws", "Mesmerizing", "Prismatic"]
+    },
+    "chienta": {
+        "name": "Chienta",
+        "loomipedia_id": "239",
+        "type": ["Light", "Ice"],
+        "abilities": ["Sharp Claws", "Mesmerizing", "Prismatic"]
+    },
+    "eyebrella": {
+        "name": "Eyebrella",
+        "loomipedia_id": "240",
+        "type": ["Water"],
+        "abilities": ["Hydro Vortex", "Do or Die", "Pluvial"]
+    },
+    "parasoul": {
+        "name": "Parasoul",
+        "loomipedia_id": "241",
+        "type": ["Water", "Dark"],
+        "abilities": ["Hydro Vortex", "Do or Die", "Pluvial"]
+    },
+    "lissen": {
+        "name": "Lissen",
+        "loomipedia_id": "242",
+        "type": ["Mind"],
+        "abilities": ["Motivational", "Do or Die", "Virtuoso"]
+    },
+    "biwarned": {
+        "name": "Biwarned",
+        "loomipedia_id": "243",
+        "type": ["Mind", "Simple"],
+        "abilities": ["Motivational", "Do or Die", "Virtuoso"]
+    },
+    "lantot": {
+        "name": "Lantot",
+        "loomipedia_id": "244",
+        "type": ["Fire"],
+        "abilities": ["Wild Fire", "Do or Die", "Sendoff"]
+    },
+    "lantorch": {
+        "name": "Lantorch",
+        "loomipedia_id": "245",
+        "type": ["Fire", "Light"],
+        "abilities": ["Wild Fire", "Do or Die", "Sendoff"]
+    },
+    "milgoo": {
+        "name": "Milgoo",
+        "loomipedia_id": "246",
+        "type": ["Toxic"],
+        "abilities": ["Soul Siphon", "Do or Die", "Devious"]
+    },
+    "rancidor": {
+        "name": "Rancidor",
+        "loomipedia_id": "247",
+        "type": ["Toxic", "Ancient"],
+        "abilities": ["Soul Siphon", "Do or Die", "Devious"]
+    },
+    "nautling": {
+        "name": "Nautling",
+        "loomipedia_id": "248",
+        "type": ["Ancient", "Simple"],
+        "abilities": ["Watcher", "Protective Shell", "Viscid"]
+    },
+    "nautillect": {
+        "name": "Nautillect",
+        "loomipedia_id": "249",
+        "type": ["Ancient", "Mind"],
+        "abilities": ["Watcher", "Protective Shell", "Viscid"]
+    },
+    "naukout": {
+        "name": "Naukout",
+        "loomipedia_id": "250",
+        "type": ["Ancient", "Brawler"],
+        "abilities": ["Watcher", "Protective Shell", "Viscid"]
+    },
+    "yutiny": {
+        "name": "Yutiny",
+        "loomipedia_id": "251",
+        "type": ["Ancient", "Air"],
+        "abilities": ["Triumph", "Petrifying", "Tumultuous"]
+    },
+    "yuteen": {
+        "name": "Yuteen",
+        "loomipedia_id": "252",
+        "type": ["Ancient", "Air"],
+        "abilities": ["Triumph", "Petrifying", "Tumultuous"]
+    },
+    "yutyphoon": {
+        "name": "Yutyphoon",
+        "loomipedia_id": "253",
+        "type": ["Ancient", "Air"],
+        "abilities": ["Triumph", "Petrifying", "Tumultuous"]
+    },
+    "venile": {
+        "name": "Venile",
+        "loomipedia_id": "254",
+        "type": ["Ancient", "Toxic"],
+        "abilities": ["Toxic Spines", "Venomous", "Brutal Wrath"]
+    },
+    "verinox": {
+        "name": "Verinox",
+        "loomipedia_id": "255",
+        "type": ["Ancient", "Toxic"],
+        "abilities": ["Toxic Spines", "Venomous", "Brutal Wrath"]
+    },
+    "verinosaur": {
+        "name": "Verinosaur",
+        "loomipedia_id": "256",
+        "type": ["Ancient", "Toxic"],
+        "abilities": ["Toxic Spines", "Venomous", "Brutal Wrath"]
+    },
+    "nymvolt": {
+        "name": "Nymvolt",
+        "loomipedia_id": "257",
+        "type": ["Electric", "Bug"],
+        "abilities": ["Recurrent", "Thunder Summon", "Changed Arc"]
+    },
+    "ohmbolt": {
+        "name": "Ohmbolt",
+        "loomipedia_id": "258",
+        "type": ["Electric", "Bug"],
+        "abilities": ["Recurrent", "Thunder Summon", "Changed Arc"] 
+    },
+    "plasmoth": {
+        "name": "Plasmoth",
+        "loomipedia_id": "259",
+        "type": ["Electric", "Bug"],
+        "abilities": ["Recurrent", "Thunder Summon", "Changed Arc"]
+    },
+    "cicalute": {
+        "name": "Cicalute",
+        "loomipedia_id": "260",
+        "type": ["Bug", "Mind"],
+        "abilities": ["Metamorphosis", "Mesmerizing", "Expertise"]
+    },
+    "violana": {
+        "name": "Violana",
+        "loomipedia_id": "261",
+        "type": ["Bug", "Mind"],
+        "abilities": ["Metamorphosis", "Mesmerizing", "Expertise"]
+    },
+    "goswing": {
+        "name": "Goswing",
+        "loomipedia_id": "262",
+        "type": ["Air", "Simple"],
+        "abilities": ["Compliant", "Burglar", "Hydrate"]
+    },
+    "ganderveil": {
+        "name": "Ganderveil",
+        "loomipedia_id": "263",
+        "type": ["Air", "Simple"],
+        "abilities": ["Compliant", "Burglar", "Hydrate"]
+    },
+    "banooh": {
+        "name": "Banooh",
+        "loomipedia_id": "264",
+        "type": ["Simple"],
+        "abilities": ["Shakedown", "Assertive", "Berserk"]
+    },
+    "banokey": {
+        "name": "Banokey",
+        "loomipedia_id": "265",
+        "type": ["Simple", "Brawler"],
+        "abilities": ["Shakedown", "Assertive", "Berserk"]
+    },
+    "spirwix": {
+        "name": "Spirwix",
+        "loomipedia_id": "266",
+        "type": ["Fire", "Spirit"],
+        "abilities": ["Disenchant", "Raging Fire", "Devious"]
+    },
+    "malevowax": {
+        "name": "Malevowax",
+        "loomipedia_id": "267",
+        "type": ["Fire", "Spirit"],
+        "abilities": ["Disenchant", "Raging Fire", "Devious"]
+    },
+    "grievestone": {
+        "name": "Grievestone",
+        "loomipedia_id": "268",
+        "type": ["Earth", "Spirit"],
+        "abilities": ["Sob", "Bitter Touch", "Seize"]
+    },
+    "obelost": {
+        "name": "Obelost",
+        "loomipedia_id": "269",
+        "type": ["Earth", "Spirit"],
+        "abilities": ["Wail", "Bitter Touch", "Seize"]
+    },
+    "jimby": {
+        "name": "Jimby",
+        "loomipedia_id": "270",
+        "type": ["Simple"],
+        "abilities": ["Fortissimo", "Carol", "Virtuoso"]
+    },
+    "piccolio": {
+        "name": "Piccolio",
+        "loomipedia_id": "271",
+        "type": ["Simple"],
+        "abilities": ["Fortissimo", "Carol", "Virtuoso"]
+    },
+    "wassel": {
+        "name": "Wassel",
+        "loomipedia_id": "272",
+        "type": ["Ice"],
+        "abilities": ["Adorable", "Elusive"]
+    },
+    "borealisk": {
+        "name": "Borealisk",
+        "loomipedia_id": "273",
+        "type": ["Ice"],
+        "abilities": ["Upper Hand", "Elusive"]
+    },
+    "snicle": {
+        "name": "Snicle",
+        "loomipedia_id": "274",
+        "type": ["Ice", "Dark"],
+        "abilities": ["Puncture", "Toxic Sac"]
+    },
+    "slivyce": {
+        "name": "Slivyce",
+        "loomipedia_id": "275",
+        "type": ["Ice", "Dark"],
+        "abilities": ["Puncture", "Toxic Sac"]
+    },
+    "duskit": {
+        "name": "Duskit",
+        "loomipedia_id": "283",
+        "type": ["Spirit", "Mind"],
+        "abilities": ["Harmonize", "Mean Spirited"]
+    },
+    "ikazune": {
+        "name": "Ikazune",
+        "loomipedia_id": "284",
+        "type": ["Fire", "Electric"],
+        "abilities": ["Raging Fire", "Rechargeable"]
+    },
+    "protogon": {
+        "name": "Protogon",
+        "loomipedia_id": "285",
+        "type": ["Metal"],
+        "abilities": ["Analyze", "Replicate"]
+    },
+    "dakuda": {
+        "name": "Dakuda",
+        "loomipedia_id": "286",
+        "type": ["Water"],
+        "abilities": ["Brute Force", "Hydrate"]
+    },
+    "overcharged_dakuda": {
+        "name": "Overcharged Dakuda",
+        "loomipedia_id": "286sb",
+        "type": ["Water", "Electric"],
+        "abilities": ["Railgun"]
+    },
+    "cosmeleon": {
+        "name": "Cosmeleon",
+        "loomipedia_id": "289",
+        "type": ["Simple"],
+        "abilities": ["Adaptable"]
+    },
+    "mutagon": {
+        "name": "Mutagon",
+        "loomipedia_id": "290",
+        "type": ["Mind", "Brawler"],
+        "abilities": ["Tank", "Heavy Fists"]
+    },
+    "cephalops": {
+        "name": "Cephalops",
+        "loomipedia_id": "291",
+        "type": ["Water", "Dark"],
+        "abilities": ["Bloodsucker", "Nightmarish"]
+    },
+    "elephage": {
+        "name": "Elephage",
+        "loomipedia_id": "292",
+        "type": ["Electric"],
+        "abilities": ["Malware", "Replicate"]
+    },
+    "phagenaut": {
+        "name": "Phagenaut",
+        "loomipedia_id": "293",
+        "type": ["Electric"],
+        "abilities": ["Malware", "Overcharged"]
+    },
+    "glacadia": {
+        "name": "Glacadia",
+        "loomipedia_id": "294",
+        "type": ["Ice", "Ancient"],
+        "abilities": ["Chilling Passion", "Frostbite"]
+    },
+    "arceros": {
+        "name": "Arceros",
+        "loomipedia_id": "295",
+        "type": ["Fire", "Ancient"],
+        "abilities": ["Burning Rage", "Third-degree Burn"]
+    },
+    "novadeaus": {
+        "name": "Novadeaus",
+        "loomipedia_id": "296",
+        "type": ["Fire", "Ice"],
+        "abilities": ["Obsidian Heart"]
+    },
+    "morphezu": {
+        "name": "Morphezu",
+        "loomipedia_id": "297",
+        "type": ["Air"],
+        "abilities": ["Sky-Borne", "All Seeing"]
+    },
+    "behemoth": {
+        "name": "Behemoth",
+        "loomipedia_id": "298",
+        "type": ["Earth"],
+        "abilities": ["Land-Borne", "All Seeing"]
+    },
+    "leviatross": {
+        "name": "Leviatross",
+        "loomipedia_id": "299",
+        "type": ["Water"],
+        "abilities": ["Depths-Borne", "All Seeing"]
+    },
+    "cosmiore": {
+        "name": "Cosmiore",
+        "loomipedia_id": "301",
+        "type": ["Ancient", "Mind"],
+        "abilities": ["Enchanted Coat", "Quick Recovery"]
+    },
+    "nymaurae": {
+        "name": "Nymaurae",
+        "loomipedia_id": "302",
+        "type": ["Light", "Air"],
+        "abilities": ["Quick Recovery", "Incandescent"]
+    },
+    "nymesis": {
+        "name": "Nymesis",
+        "loomipedia_id": "303",
+        "type": ["Dark", "Air"],
+        "abilities": ["Impose", "Pitch-Black"]
+    },
+    "metronette": {
+        "name": "Metronette",
+        "loomipedia_id": "304",
+        "type": ["Dark", "Mind"],
+        "abilities": ["Mysterious Cloak", "Applied Frustration"]
+    },
+    "willbound_metronette": {
+        "name": "Metronette",
+        "loomipedia_id": "304sb",
+        "type": ["Dark", "Mind"],
+        "abilities": ["Demanding"]
+    },
+    "nevermare": {
+        "name": "Nevermare",
+        "loomipedia_id": "305",
+        "type": ["Plant", "Spirit"],
+        "abilities": ["Razor Sharp", "Frenzy"]
+    },
+    "gargolem": {
+        "name": "Gargolem",
+        "loomipedia_id": "306",
+        "type": ["Earth", "Air"],
+        "abilities": ["Immunized", "Master"]
+    },
+    "odoyaga": {
+        "name": "Odoyaga",
+        "loomipedia_id": "307",
+        "type": ["Mind", "Air"],
+        "abilities": ["Hag", "Frenzy"]
+    },
+    "wabalisc": {
+        "name": "Wabalisc",
+        "loomipedia_id": "308",
+        "type": ["Ice"],
+        "abilities": ["Ignorant", "Hasty"]
+    },
+    "akhalos": {
+        "name": "Akhalos",
+        "loomipedia_id": "309",
+        "type": ["Ice", "Water"],
+        "abilities": ["Aqua Body", "Aggressive"]
+    },
+    "celesting": {
+        "name": "Celesting",
+        "loomipedia_id": "310",
+        "type": ["Metal", "Light"],
+        "abilities": ["Reverberate", "Mystic Tone"]
+    },
+    "stellarchime_celesting": {
+        "name": "Celesting",
+        "loomipedia_id": "310sb",
+        "type": ["Metal", "Light"],
+        "abilities": ["Effulgent"]
+    },
+    "mimask": {
+        "name": "Mimask",
+        "loomipedia_id": "311",
+        "type": ["Dark"],
+        "abilities": ["Mask Swap", "Facade"]
+    },
+    "grimyuline": {
+        "name": "Grimyuline",
+        "loomipedia_id": "312",
+        "type": ["Dark", "Brawler"],
+        "abilities": ["Sharp Edges", "Sharp Claws"]
+    }
+}
