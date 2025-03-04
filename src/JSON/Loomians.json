@@ -1769,11 +1769,23 @@
         "type": ["Water"],
         "abilities": ["Depths-Borne", "All Seeing"]
     },
-    "cosmiore": {
+    "encased_cosmiore": {
         "name": "Cosmiore",
         "loomipedia_id": "301",
         "type": ["Ancient", "Mind"],
         "abilities": ["Enchanted Coat", "Quick Recovery"]
+    },
+    "cracked_cosmiore": {
+        "name": "Cosmiore",
+        "loomipedia_id": "301a",
+        "type": ["Ancient", "Mind"],
+        "abilities": ["Enchanted Coat", "Eager"]
+    },
+    "unleashed_cosmiore": {
+        "name": "Cosmiore",
+        "loomipedia_id": "301b",
+        "type": ["Ancient", "Mind"],
+        "abilities": ["Cosmic Pressure", "Idiosyncratic"]
     },
     "nymaurae": {
         "name": "Nymaurae",
@@ -1805,9 +1817,27 @@
         "type": ["Plant", "Spirit"],
         "abilities": ["Razor Sharp", "Frenzy"]
     },
-    "gargolem": {
+    "base_gargolem": {
         "name": "Gargolem",
         "loomipedia_id": "306",
+        "type": ["Earth", "Air"],
+        "abilities": ["Immunized", "Master"]
+    },
+    "attack_gargolem": {
+        "name": "Gargolem",
+        "loomipedia_id": "306a",
+        "type": ["Earth", "Air"],
+        "abilities": ["Immunized", "Master"]
+    },
+    "defense_gargolem": {
+        "name": "Gargolem",
+        "loomipedia_id": "306b",
+        "type": ["Earth", "Air"],
+        "abilities": ["Immunized", "Master"]
+    },
+    "speed_gargolem": {
+        "name": "Gargolem",
+        "loomipedia_id": "306c",
         "type": ["Earth", "Air"],
         "abilities": ["Immunized", "Master"]
     },
